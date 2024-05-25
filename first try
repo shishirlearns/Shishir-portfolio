@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang=”en”>
+<head>
+<meta charset=”UTF-8”>
+<title>My Resume</title>
+<body>
+<h1>Hello, I am Shishir Thapa</h1>
+<hr />
+<h2>Work experience</h2>
+<p>Branch Manager- Muktinath Bikas Bank Ltd. March 2021 to Jan 2023</p>
+<ul>
+<li>Oversaw branch operations</li>
+<li>Provided exceptional customer service</li>
+</ul>
+<p>Service Manager-Kamana Sewa Bikas Bank Ltd</p>
+<ul>
+<li>Planned and implemented initiatives to optimitize branch operations
+<li>Collaborated with cros functional teams</li>
+</ul>
+</body>
+</head>
+</html>
+
